@@ -22,7 +22,7 @@ Across multiple domains:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AGI_Benchmark_Suite.git
+git clone https://github.com/1AakashK/AGI_Benchmark_Suite.git
 cd AGI_Benchmark_Suite
 
 # Install dependencies
