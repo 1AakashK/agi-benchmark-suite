@@ -1,0 +1,61 @@
+{
+  "model": "gemma3:latest",
+  "benchmarks": {
+    "Transfer Learning": {
+      "tasks": [],
+      "overall_score": 0,
+      "transfer_efficiency": 0
+    },
+    "Episodic Memory": {
+      "tasks": [],
+      "overall_score": 0,
+      "decay_rate": 0
+    },
+    "Concept Formation": {
+      "tasks": [],
+      "overall_score": 0,
+      "concept_type_scores": {
+        "visual": 0,
+        "logical": 0,
+        "linguistic": 0
+      }
+    },
+    "Sequential Decision": {
+      "tasks": [],
+      "overall_score": 0,
+      "environment_scores": {
+        "deterministic": 0,
+        "stochastic": 0
+      },
+      "horizon_scores": {
+        "5": 0,
+        "10": 0,
+        "20": 0
+      }
+    },
+    "Code Generation": {
+      "tasks": [],
+      "overall_score": 0,
+      "language_scores": {
+        "python": 0,
+        "javascript": 0,
+        "rust": 0
+      },
+      "task_type_scores": {
+        "algorithm": 0,
+        "data_processing": 0,
+        "web_api": 0
+      }
+    },
+    "Visual Reasoning": {
+      "tasks": [],
+      "overall_score": 0,
+      "task_type_scores": {
+        "pattern_completion": 0,
+        "scene_understanding": 0,
+        "visual_analogy": 0
+      }
+    }
+  },
+  "overall_score": 0.0
+}

@@ -1,0 +1,20 @@
+AGI_Benchmark_Suite/
+├── README.md                 # Project overview and usage instructions
+├── requirements.txt         # Dependencies
+├── src/                     # Core implementation
+│   ├── __init__.py
+│   ├── benchmarks/          # Benchmark implementations
+│   │   ├── __init__.py
+│   │   ├── transfer/        # Transfer learning tests
+│   │   ├── memory/          # Memory tests
+│   │   ├── abstraction/     # Abstraction tests
+│   │   └── planning/        # Planning tests
+│   ├── domains/             # Domain-specific challenges
+│   │   ├── __init__.py
+│   │   ├── code/            # Code-related tasks
+│   │   ├── logic/           # Logic puzzles
+│   │   ├── vision/          # Visual reasoning tasks
+│   │   └── reasoning/       # General reasoning tasks
+│   └── utils/               # Utility functions
+├── tests/                   # Test suite
+└── examples/                # Example usage
